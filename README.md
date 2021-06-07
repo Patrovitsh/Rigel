@@ -2,8 +2,8 @@
 Conception d'un programme illustrant la carte des étoiles. À noter que ce programme a été réalisé dans le cadre d'un 
 cours de première année à l'Ecole Polytechnique Fédérale de Lausanne en Suisse.
 
-`/!\` Pour exécuter ce projet vous devez pocéder Java 8 ou une version ultérieure au quel cas la labrairie JavaFX
-devra aussi être rajouté.
+`/!\` Pour exécuter ce projet vous devez pocéder Java 8 ou une version ultérieure au quel cas la librairie JavaFX
+devra aussi être ajouté.
 
 ## Présentation
 Le projet Rigel est un programme dynamique permettant de représenter la carte des étoiles depuis n'importe quel point 
