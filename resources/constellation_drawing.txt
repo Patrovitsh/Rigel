@@ -1,0 +1,3 @@
+petit_ours_constellation,Polaris,Kochab,-32,1.3
+grand_ours_constellation,Alkaid,Omi UMa,-30,0.93
+orion_constellation,Chi-2 Ori,Rigel,-35,1
