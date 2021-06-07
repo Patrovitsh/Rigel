@@ -65,3 +65,9 @@ En activant cycle jour/nuit dans la fenêtre « Affichage » (désactivé par d�
 chaque fois la position du soleil est au-dessus de l’horizon et repasse en noir si elle est en dessous. La mise en 
 œuvre est triviale mais il y a également une toute petite fonction mathématique qui permet de faire varier la couleur 
 progressivement, cela est fait dans la méthode clear(…) du SkyCanvasPainter.
+
+## Auteurs :
+* **Jean-Baptiste Moreau** 
+* **Ali Raed Ben Mustapha**
+
+***
