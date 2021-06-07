@@ -1,6 +1,7 @@
 # Projet - Rigel - Juin 2020
 Conception d'un programme illustrant la carte des étoiles. À noter que ce programme a été réalisé dans le cadre d'un 
 cours de première année à l'Ecole Polytechnique Fédérale de Lausanne en Suisse.
+
 `/!\` Pour exécuter ce projet vous devez pocéder Java 8 ou une version ultérieure au quel cas la labrairie JavaFX
 devra aussi être rajouté.
 
